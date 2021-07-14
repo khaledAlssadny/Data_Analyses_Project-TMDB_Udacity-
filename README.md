@@ -1,8 +1,8 @@
 # Udacity--Project-Investigate-TMDB-Movies-Dataset
-- Project Overview :
-*The selected dataset is TMDb Movie Data which contains information about imdb movies with their average rating, budget, revenue...etc*
+### Project Overview :
+- The selected dataset is TMDb Movie Data which contains information about imdb movies with their average rating, budget, revenue...etc*
 
-The explored questions are:
+### The explored questions are:
 
 What are the Top 10 Movies by Rating?
 What is the distribution of average movies ratings?
